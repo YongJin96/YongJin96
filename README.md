@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:FFFFFF,50:FFFFFF,100:FFFFFF&height=300&section=header&text=용개발&fontAlign=86.5&fontAlignY=55&fontSize=40&fontColor=FFFFFF&desc=GameDev.&descSize=20&&descAlign=88&descAlignY=66&animation=fadeIn)
 
 <h3 align="center"><b>- SNS -</b></h3>
-<a href="https://www.youtube.com/@user-lt7dd8jz1i" target="_blank"><img src="https://img.shields.io/badge/YouTube-FFFFFF?style=flat-square&logo=YouTube&logoColor=red"/></a>
+<a href="https://www.youtube.com/@user-jyj96" target="_blank"><img src="https://img.shields.io/badge/YouTube-FFFFFF?style=flat-square&logo=YouTube&logoColor=red"/></a>
 
 <h3 align="center"><b>- Used To -</b></h3>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-C%23-white?style=flat-square"/></a>
